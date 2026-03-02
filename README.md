@@ -1,7 +1,5 @@
 # 🧠 Spring Boot & Python Deep Learning Integration Project
 
-### 🔗 Live Demo: [https://jyj02.cloud](https://jyj02.cloud)
-
 ## 📖 프로젝트 소개 (Project Overview)
 이 프로젝트는 **Java Spring Boot** 웹 애플리케이션과 **Python 딥러닝** 모델을 연동하여 구축한 웹 서비스입니다.  
 사용자가 웹 인터페이스를 통해 데이터를 입력하면, Spring Boot 백엔드가 Python 스크립트를 실행하여 딥러닝 모델(TensorFlow/Keras)을 통한 예측 결과를 반환합니다.
